@@ -1,0 +1,38 @@
+PODS:
+  - DeepDiff (2.3.1)
+  - Realm (4.4.1):
+    - Realm/Headers (= 4.4.1)
+  - Realm/Headers (4.4.1)
+  - RealmSwift (4.4.1):
+    - Realm (= 4.4.1)
+  - Reusable (4.1.1):
+    - Reusable/Storyboard (= 4.1.1)
+    - Reusable/View (= 4.1.1)
+  - Reusable/Storyboard (4.1.1)
+  - Reusable/View (4.1.1)
+  - SwiftLint (0.39.2)
+
+DEPENDENCIES:
+  - DeepDiff
+  - RealmSwift
+  - Reusable
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - DeepDiff
+    - Realm
+    - RealmSwift
+    - Reusable
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  DeepDiff: e5ae6c50d0321568e4508cec5930b9f10bb293fc
+  Realm: 4eb04d7487bd43c0581256f40b424eafb711deff
+  RealmSwift: 3eb8924ff7100df5928c7602f71d0fec51e7c9c5
+  Reusable: 53a9acf5c536f229b31b5865782414b508252ddb
+  SwiftLint: 22ccbbe3b8008684be5955693bab135e0ed6a447
+
+PODFILE CHECKSUM: c163839fa5993c83a42a0b47bc8f42b08958e445
+
+COCOAPODS: 1.9.1

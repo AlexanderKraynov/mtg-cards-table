@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "09C41DC1-62A3-4A73-8763-8803DE99D943"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB095539-9530-4324-8A41-F9C950B69931"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mtg Cards/Presenter/MainViewPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "loadMore(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FB095539-9530-4324-8A41-F9C950B69931 - bee1f2eebb1c49ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mtg_Cards.MainViewPresenter.loadMore(completion: (Swift.Optional&lt;Swift.Array&lt;Mtg_Cards.Card&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Mtg Cards"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksander/Documents/GitHub/ios/2020-spring/Kraynov%20Alexander/hw2/Mtg%20Cards/Mtg%20Cards/Presenter/MainViewPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "FB095539-9530-4324-8A41-F9C950B69931 - 17c42cc5a54bfea9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;Mtg_Cards.Card&gt;&gt;) -&gt; () in Mtg_Cards.MainViewPresenter.loadMore(completion: (Swift.Optional&lt;Swift.Array&lt;Mtg_Cards.Card&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Mtg Cards"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksander/Documents/GitHub/ios/2020-spring/Kraynov%20Alexander/hw2/Mtg%20Cards/Mtg%20Cards/Presenter/MainViewPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "178">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08CC8CE1-70CB-44C3-A338-05F1F576DE3C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mtg Cards/View/Classes/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "tableView(_:willDisplay:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A16BFF89-5077-41AD-8B01-E9EFFC06C7E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mtg Cards/View/Classes/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "tableView(_:willDisplay:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82DD57B8-C8EE-47B8-BF35-F2530F080B39"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mtg Cards/View/Classes/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "tableView(_:willDisplay:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

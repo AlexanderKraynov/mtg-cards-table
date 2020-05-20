@@ -1,0 +1,14 @@
+platform :ios, '10.0'
+
+target 'Mtg Cards' do
+  use_frameworks!
+
+  # Pods for Mtg Cards
+   pod 'SwiftLint'
+   pod 'Reusable'
+   pod 'RealmSwift'
+   pod 'DeepDiff'
+   target 'Mtg CardsTests' do
+     inherit! :search_paths
+   end
+end

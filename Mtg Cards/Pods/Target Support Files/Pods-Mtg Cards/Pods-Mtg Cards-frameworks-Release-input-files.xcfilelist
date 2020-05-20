@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-Mtg Cards/Pods-Mtg Cards-frameworks.sh
+${BUILT_PRODUCTS_DIR}/DeepDiff/DeepDiff.framework
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
+${BUILT_PRODUCTS_DIR}/Reusable/Reusable.framework
