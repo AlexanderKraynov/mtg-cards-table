@@ -4,4 +4,4 @@ https://api.scryfall.com
 Lists all the cards and displays information in a details window. 
 Has a search functionality, displays the latest info in offline mode.
 Tests included.
-![alt text](https://imgur.com/IW8Yp8w.jpg) {:height="50%" width="50%"}
+<img src="https://imgur.com/IW8Yp8w.jpg" width="100" height="100">
